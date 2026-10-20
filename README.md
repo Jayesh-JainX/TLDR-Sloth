@@ -6,7 +6,7 @@
 
 ## 📸 Demo & Live Application
 
-**Take it for a spin:** [https://tldr-sloth.vercel.app](https://tldr-sloth.vercel.app) _(Replace with your actual Vercel link if different)_
+**Take it for a spin:** [https://tldr-sloth.vercel.app](https://tldr-sloth.vercel.app)
 
 ![TL;DR Sloth Interface Preview](./frontend/public/demo.png)
 
